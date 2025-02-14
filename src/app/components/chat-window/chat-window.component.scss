@@ -1,0 +1,23 @@
+.chat-container {
+    height: 300px;
+    overflow-y: auto;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+  
+    .bot {
+      background: #d1e7dd;
+      padding: 8px;
+      border-radius: 5px;
+      margin-bottom: 5px;
+    }
+  
+    .user {
+      background: #f8d7da;
+      padding: 8px;
+      border-radius: 5px;
+      margin-bottom: 5px;
+      text-align: right;
+    }
+  }
+  
